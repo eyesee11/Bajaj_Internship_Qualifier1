@@ -34,7 +34,7 @@ GET /health
 ```json
 {
   "is_success": true,
-  "official_email": "your.email@chitkara.edu.in"
+  "official_email": "ayush1634.be23@chitkara.edu.in"
 }
 ```
 
@@ -76,7 +76,7 @@ Generate Fibonacci series.
 ```json
 {
   "is_success": true,
-  "official_email": "your.email@chitkara.edu.in",
+  "official_email": "ayush1634.be23@chitkara.edu.in",
   "data": [0, 1, 1, 2, 3, 5, 8]
 }
 ```
@@ -110,7 +110,7 @@ Filter prime numbers from array.
 ```json
 {
   "is_success": true,
-  "official_email": "your.email@chitkara.edu.in",
+  "official_email": "ayush1634.be23@chitkara.edu.in",
   "data": [2, 7, 11, 17]
 }
 ```
@@ -145,7 +145,7 @@ Calculate Lowest Common Multiple.
 ```json
 {
   "is_success": true,
-  "official_email": "your.email@chitkara.edu.in",
+  "official_email": "ayush1634.be23@chitkara.edu.in",
   "data": 72
 }
 ```
@@ -179,7 +179,7 @@ Calculate Highest Common Factor (GCD).
 ```json
 {
   "is_success": true,
-  "official_email": "your.email@chitkara.edu.in",
+  "official_email": "ayush1634.be23@chitkara.edu.in",
   "data": 12
 }
 ```
@@ -213,7 +213,7 @@ Ask AI a question (powered by Google Gemini).
 ```json
 {
   "is_success": true,
-  "official_email": "your.email@chitkara.edu.in",
+  "official_email": "ayush1634.be23@chitkara.edu.in",
   "data": "Mumbai"
 }
 ```

@@ -3,7 +3,7 @@
 ## Base URL
 
 - Local: `http://localhost:3000`
-- Production: `https://your-deployment-url.com`
+- Production: `https://bajaj-internship-qualifier1.vercel.app/`
 
 ## Authentication
 
